@@ -1,0 +1,105 @@
+09/18/2024 11:00:20 PM: INFO: This is a debug message
+09/18/2024 11:00:21 PM: INFO: **********************Test_001_Login ***************
+09/18/2024 11:00:21 PM: INFO: ********Verifying Home page Title**********
+09/18/2024 11:00:23 PM: INFO: ********Home page Title TC is passed **********
+09/18/2024 11:00:25 PM: INFO: ********Verifying Login page Title**********
+09/18/2024 11:00:37 PM: ERROR: ******** Login page Title TC is failed **********
+09/19/2024 12:43:55 AM: INFO: This is a debug message
+09/19/2024 12:43:57 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 12:43:57 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 12:44:00 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 12:44:02 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 12:44:13 AM: ERROR: ******** Login page Title TC is failed **********
+09/19/2024 12:44:39 AM: INFO: This is a debug message
+09/19/2024 12:45:09 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 12:45:09 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 12:45:11 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 12:45:17 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 12:45:30 AM: ERROR: ******** Login page Title TC is failed **********
+09/19/2024 01:37:05 AM: INFO: This is a debug message
+09/19/2024 01:37:06 AM: INFO: This is a debug message
+09/19/2024 01:37:06 AM: INFO: This is a debug message
+09/19/2024 01:37:07 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 01:37:07 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 01:37:07 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 01:37:09 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 01:37:20 AM: ERROR: ******** Login page Title TC is failed **********
+09/19/2024 06:23:33 AM: INFO: This is a debug message
+09/19/2024 06:23:35 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 06:23:35 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 06:23:37 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 06:23:39 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 06:23:51 AM: ERROR: ******** Login page Title TC is failed **********
+09/19/2024 06:53:00 AM: INFO: This is a debug message
+09/19/2024 06:53:02 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 06:53:02 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 06:53:10 AM: INFO: **** failed ****
+09/19/2024 08:23:15 AM: INFO: This is a debug message
+09/19/2024 08:23:15 AM: INFO: This is a debug message
+09/19/2024 08:23:17 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 08:23:17 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 08:23:19 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 08:24:03 AM: INFO: This is a debug message
+09/19/2024 08:24:03 AM: INFO: This is a debug message
+09/19/2024 08:24:05 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 08:24:05 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 08:24:07 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 08:24:08 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 08:24:08 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 08:24:16 AM: INFO: **** failed ****
+09/19/2024 09:32:26 AM: INFO: This is a debug message
+09/19/2024 09:32:26 AM: INFO: This is a debug message
+09/19/2024 09:32:28 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 09:32:28 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 09:32:30 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 09:32:32 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 09:32:32 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 09:32:39 AM: INFO: **** failed ****
+09/19/2024 09:33:46 AM: INFO: This is a debug message
+09/19/2024 09:33:46 AM: INFO: This is a debug message
+09/19/2024 09:33:47 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 09:33:47 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 09:33:50 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 09:33:51 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 09:33:51 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 09:33:58 AM: INFO: **** failed ****
+09/19/2024 09:34:55 AM: INFO: This is a debug message
+09/19/2024 09:34:55 AM: INFO: This is a debug message
+09/19/2024 09:34:56 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 09:34:56 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 09:34:58 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 09:35:00 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 09:35:00 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 09:35:07 AM: INFO: **** failed ****
+09/19/2024 09:35:12 AM: INFO: This is a debug message
+09/19/2024 09:35:12 AM: INFO: This is a debug message
+09/19/2024 09:35:18 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 09:35:18 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 09:35:20 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 09:35:26 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 09:35:26 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 09:35:32 AM: INFO: **** failed ****
+09/19/2024 09:37:25 AM: INFO: This is a debug message
+09/19/2024 09:37:25 AM: INFO: This is a debug message
+09/19/2024 09:37:26 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 09:37:26 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 09:37:28 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 09:37:30 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 09:37:30 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 09:37:37 AM: INFO: **** failed ****
+09/19/2024 09:37:43 AM: INFO: This is a debug message
+09/19/2024 09:37:43 AM: INFO: This is a debug message
+09/19/2024 09:37:48 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 09:37:48 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 09:37:51 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 09:37:56 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 09:37:56 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 09:38:02 AM: INFO: **** failed ****
+09/19/2024 09:40:30 AM: INFO: This is a debug message
+09/19/2024 09:40:30 AM: INFO: This is a debug message
+09/19/2024 09:40:35 AM: INFO: **********************Test_001_Login ***************
+09/19/2024 09:40:35 AM: INFO: ********Verifying Home page Title**********
+09/19/2024 09:40:38 AM: INFO: ********Home page Title TC is passed **********
+09/19/2024 09:40:43 AM: INFO: ********Test_001_DDT_Login**********
+09/19/2024 09:40:43 AM: INFO: ********Verifying Login page Title**********
+09/19/2024 09:40:50 AM: INFO: **** failed ****
